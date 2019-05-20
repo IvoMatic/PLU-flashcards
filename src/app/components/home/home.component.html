@@ -1,0 +1,26 @@
+<button (click)='wrong()'>falsch</button>
+<button (click)='right()'>richtig</button>
+<p *ngIf='currentProduct'>Cards left: {{allProducts.length}}</p>
+<div class="flip-card" *ngIf='!currentProduct'>
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <h1>Gut gemacht</h1>
+    </div>
+    <div class="flip-card-back">
+      <h1>:))</h1> 
+      
+    </div>
+  </div>
+</div>
+<div class="flip-card" *ngIf='currentProduct'>
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <h1>{{currentProduct.name}}</h1>
+      </div>
+      <div class="flip-card-back">
+        <h1>{{currentProduct.id}}</h1> 
+        
+      </div>
+    </div>
+  </div>
+

@@ -1,0 +1,756 @@
+{
+  "products": [
+    {
+      "id": "991",
+      "name": "Buttercroissant"
+    },
+    {
+      "id": "955",
+      "name": "Schoko-Donut"
+    },
+    {
+      "id": "988",
+      "name": "Kürbiskernbrot"
+    },
+    {
+      "id": "906",
+      "name": "Neo-Donut"
+    },
+    {
+      "id": "992",
+      "name": "Weltmeisterbrötchen"
+    },
+    {
+      "id": "861",
+      "name": "Berliner mit Mehrfruchtfüllung"
+    },
+    {
+      "id": "963",
+      "name": "Bienenstich-Plunder"
+    },
+    {
+      "id": "874",
+      "name": "Bauernkruste"
+    },
+    {
+      "id": "869",
+      "name": "Laugenbrötchen"
+    },
+    {
+      "id": "762",
+      "name": "Roggenpanini"
+    },
+    {
+      "id": "956",
+      "name": "Börekstange mit Käse"
+    },
+    {
+      "id": "837",
+      "name": "Pizzazunge Frusta Prosciutto"
+    },
+    {
+      "id": "958",
+      "name": "Börekstange mit Spinat und Käse"
+    },
+    {
+      "id": "924",
+      "name": "Schinken-Käse-Croissant"
+    },
+    {
+      "id": "134",
+      "name": "Rettich schwarz"
+    },
+    {
+      "id": "159",
+      "name": "Rettich schwarz (Stück)"
+    },
+    {
+      "id": "160",
+      "name": "Rettich weiß (Stück)"
+    },
+    {
+      "id": "72",
+      "name": "Salat Radiccio"
+    },
+    {
+      "id": "109",
+      "name": "Salat Bunte Blattsalate / Lollo"
+    },
+    {
+      "id": "101",
+      "name": "Salat Eisbergsalat"
+    },
+    {
+      "id": "401",
+      "name": "Salat Eisbergsalat (BIO)"
+    },
+    {
+      "id": "102",
+      "name": "Salat Endiviensalat"
+    },
+    {
+      "id": "105",
+      "name": "Salat Kopfsalat"
+    },
+    {
+      "id": "111",
+      "name": "Salat Friséesalat"
+    },
+    {
+      "id": "127",
+      "name": "Salat Romana"
+    },
+    {
+      "id": "283",
+      "name": "Sellerie Staudensellerie"
+    },
+    {
+      "id": "82",
+      "name": "Sellerie Knolle ohne grün (lose)"
+    },
+    {
+      "id": "282",
+      "name": "Sellerie Knolle mit grün (Stück)"
+    },
+    {
+      "id": "88",
+      "name": "Spargel weiß"
+    },
+    {
+      "id": "23",
+      "name": "Speisekartoffeln festkochend"
+    },
+    {
+      "id": "28",
+      "name": "Speisefrühkartoffeln"
+    },
+    {
+      "id": "61",
+      "name": "Speisekürbis Butternuss"
+    },
+    {
+      "id": "62",
+      "name": "Speisekürbis Hokkaido"
+    },
+    {
+      "id": "21",
+      "name": "Speisekürbis Muskat"
+    },
+    {
+      "id": "27",
+      "name": "Speisekürbis Hokkaido (BIO)"
+    },
+    {
+      "id": "22",
+      "name": "Steckrüben"
+    },
+    {
+      "id": "25",
+      "name": "Süßkartoffeln"
+    },
+    {
+      "id": "29",
+      "name": "Süßkartoffeln (BIO)"
+    },
+    {
+      "id": "17",
+      "name": "Tomaten"
+    },
+    {
+      "id": "92",
+      "name": "Tomaten Coeur de Boeuf"
+    },
+    {
+      "id": "96",
+      "name": "Tomaten Fleischtomaten"
+    },
+    {
+      "id": "97",
+      "name": "Tomaten Strauchtomaten"
+    },
+    {
+      "id": "99",
+      "name": "Tomaten Cherrystrauchtomaten"
+    },
+    {
+      "id": "93",
+      "name": "Zucchini"
+    },
+    {
+      "id": "94",
+      "name": "Zucchini rund"
+    },
+    {
+      "id": "280",
+      "name": "Artischocken"
+    },
+    {
+      "id": "90",
+      "name": "Auberginen"
+    },
+    {
+      "id": "13",
+      "name": "Gemüsezwiebeln"
+    },
+    {
+      "id": "209",
+      "name": "Gurken Deutsche"
+    },
+    {
+      "id": "310",
+      "name": "Gurken"
+    },
+    {
+      "id": "331",
+      "name": "Gurken Premium"
+    },
+    {
+      "id": "91",
+      "name": "Gurken Feldgurken"
+    },
+    {
+      "id": "89",
+      "name": "Gurken Mini"
+    },
+    {
+      "id": "98",
+      "name": "Gurken Einlegegurken"
+    },
+    {
+      "id": "409",
+      "name": "Gurken (BIO)"
+    },
+    {
+      "id": "26",
+      "name": "Ingwer"
+    },
+    {
+      "id": "38",
+      "name": "Bio Ingwer"
+    },
+    {
+      "id": "444",
+      "name": "Knoblauch (BIO) Stk."
+    },
+    {
+      "id": "39",
+      "name": "Knoblauch (BIO) lose"
+    },
+    {
+      "id": "200",
+      "name": "Kohl Blumenkohl"
+    },
+    {
+      "id": "80",
+      "name": "Kohl Chinakohl"
+    },
+    {
+      "id": "205",
+      "name": "Kohl Romanesco"
+    },
+    {
+      "id": "87",
+      "name": "Kohl Spitzkohl"
+    },
+    {
+      "id": "469",
+      "name": "Kohl Spitzkohl (BIO)"
+    },
+    {
+      "id": "10",
+      "name": "Kohl Spitzkohl rot"
+    },
+    {
+      "id": "84",
+      "name": "Kohl Weißkohl"
+    },
+    {
+      "id": "86",
+      "name": "Kohl Rotkohl"
+    },
+    {
+      "id": "85",
+      "name": "Kohl Wirsing"
+    },
+    {
+      "id": "202",
+      "name": "Kohlrabi"
+    },
+    {
+      "id": "201",
+      "name": "Kohlrabi violett"
+    },
+    {
+      "id": "797",
+      "name": "Kürbis Halloween"
+    },
+    {
+      "id": "139",
+      "name": "Lauchzwiebeln rot"
+    },
+    {
+      "id": "140",
+      "name": "Lauchzwiebeln"
+    },
+    {
+      "id": "163",
+      "name": "Malrüben"
+    },
+    {
+      "id": "147",
+      "name": "Mangold"
+    },
+    {
+      "id": "12",
+      "name": "Möhren"
+    },
+    {
+      "id": "210",
+      "name": "Möhren mit Grün"
+    },
+    {
+      "id": "68",
+      "name": "Paprika gelb"
+    },
+    {
+      "id": "69",
+      "name": "Paprika orange"
+    },
+    {
+      "id": "64",
+      "name": "Paprika Mini"
+    },
+    {
+      "id": "222",
+      "name": "Porree"
+    },
+    {
+      "id": "150",
+      "name": "Radieschen"
+    },
+    {
+      "id": "161",
+      "name": "Rettich Eiszapfen"
+    },
+    {
+      "id": "162",
+      "name": "Rettich Kugelrettich"
+    },
+    {
+      "id": "627",
+      "name": "Mango"
+    },
+    {
+      "id": "47",
+      "name": "Mango Premium lose"
+    },
+    {
+      "id": "647",
+      "name": "Mango Premium Stk."
+    },
+    {
+      "id": "52",
+      "name": "Mangostan"
+    },
+    {
+      "id": "638",
+      "name": "Maracuja / Passionsfrucht (BIO)"
+    },
+    {
+      "id": "560",
+      "name": "Melone Cantaloupe"
+    },
+    {
+      "id": "564",
+      "name": "Melone futuro Piel de Sapo (Zucker)"
+    },
+    {
+      "id": "561",
+      "name": "Melone Galia"
+    },
+    {
+      "id": "562",
+      "name": "Melone Honig"
+    },
+    {
+      "id": "54",
+      "name": "Melone Honig gefleckt"
+    },
+    {
+      "id": "566",
+      "name": "Melone Wassermelone"
+    },
+    {
+      "id": "565",
+      "name": "Melone Wassermelone kernarm"
+    },
+    {
+      "id": "479",
+      "name": "Melone Baby Wassermelone (BIO)"
+    },
+    {
+      "id": "568",
+      "name": "Melone weiß"
+    },
+    {
+      "id": "67",
+      "name": "Minneola"
+    },
+    {
+      "id": "41",
+      "name": "Nektarinen"
+    },
+    {
+      "id": "44",
+      "name": "Nektarinen Plattnektarinen"
+    },
+    {
+      "id": "30",
+      "name": "Orangen Blutorangen"
+    },
+    {
+      "id": "65",
+      "name": "Orangen lose"
+    },
+    {
+      "id": "668",
+      "name": "Orangen Stk."
+    },
+    {
+      "id": "774",
+      "name": "Papaya"
+    },
+    {
+      "id": "42",
+      "name": "Pfirsiche"
+    },
+    {
+      "id": "43",
+      "name": "Pfirsiche Plattpfirsiche"
+    },
+    {
+      "id": "50",
+      "name": "Pflaumen dunkel"
+    },
+    {
+      "id": "51",
+      "name": "Pflaumen Pluot"
+    },
+    {
+      "id": "633",
+      "name": "Pitahaya"
+    },
+    {
+      "id": "77",
+      "name": "Stachelbeeren"
+    },
+    {
+      "id": "32",
+      "name": "Trauben hell mit Kernen"
+    },
+    {
+      "id": "33",
+      "name": "Trauben hell Kernlos"
+    },
+    {
+      "id": "34",
+      "name": "Trauben rot mit Kernen"
+    },
+    {
+      "id": "35",
+      "name": "Trauben rot kernlos"
+    },
+    {
+      "id": "36",
+      "name": "Trauben dunkel mit Kernen"
+    },
+    {
+      "id": "37",
+      "name": "Trauben dunkel kernlos"
+    },
+    {
+      "id": "614",
+      "name": "Zitronen mit Blatt"
+    },
+    {
+      "id": "415",
+      "name": "Zitronen (BIO)"
+    },
+    {
+      "id": "53",
+      "name": "Zwetschgen"
+    },
+    {
+      "id": "620",
+      "name": "Ananas"
+    },
+    {
+      "id": "455",
+      "name": "Ananas (BIO)"
+    },
+    {
+      "id": "11",
+      "name": "Apfel grün"
+    },
+    {
+      "id": "14",
+      "name": "Apfel rot, national"
+    },
+    {
+      "id": "16",
+      "name": "Apfel pink"
+    },
+    {
+      "id": "31",
+      "name": "Apfel rot, Crimson Snow"
+    },
+    {
+      "id": "71",
+      "name": "Apfel grün, Granny Smith"
+    },
+    {
+      "id": "40",
+      "name": "Aprikosen"
+    },
+    {
+      "id": "621",
+      "name": "Avocado"
+    },
+    {
+      "id": "457",
+      "name": "Avocado (BIO)"
+    },
+    {
+      "id": "46",
+      "name": "Bananen (BIO)"
+    },
+    {
+      "id": "45",
+      "name": "Bananen Fairtrade (BIO)"
+    },
+    {
+      "id": "48",
+      "name": "Bananen Fairtrade"
+    },
+    {
+      "id": "20",
+      "name": "Birnen"
+    },
+    {
+      "id": "519",
+      "name": "Birnen Nashi"
+    },
+    {
+      "id": "663",
+      "name": "Clementinen / Mandarinen Stk."
+    },
+    {
+      "id": "63",
+      "name": "Clementinen / Mandarinen lose"
+    },
+    {
+      "id": "19",
+      "name": "Mandarinen / Satsumas"
+    },
+    {
+      "id": "73",
+      "name": "Clementinen / Mandarinen mit Blatt"
+    },
+    {
+      "id": "70",
+      "name": "Erdbeeren"
+    },
+    {
+      "id": "56",
+      "name": "Esskastanien / Maronen"
+    },
+    {
+      "id": "634",
+      "name": "Feigen frisch"
+    },
+    {
+      "id": "18",
+      "name": "Grapefruit"
+    },
+    {
+      "id": "608",
+      "name": "Grapefruit Stk."
+    },
+    {
+      "id": "604",
+      "name": "Grapefruit grün"
+    },
+    {
+      "id": "563",
+      "name": "Galiamelone Premium"
+    },
+    {
+      "id": "567",
+      "name": "Honigmelone Premium"
+    },
+    {
+      "id": "603",
+      "name": "Honigpomelo"
+    },
+    {
+      "id": "618",
+      "name": "Honigpomelo rot"
+    },
+    {
+      "id": "74",
+      "name": "Johannisbeeren"
+    },
+    {
+      "id": "623",
+      "name": "Kaki / Sharon"
+    },
+    {
+      "id": "75",
+      "name": "Kirschen"
+    },
+    {
+      "id": "636",
+      "name": "Kiwi Gold"
+    },
+    {
+      "id": "628",
+      "name": "Kokosnuss"
+    },
+    {
+      "id": "629",
+      "name": "Karambola / Sternfrucht"
+    },
+    {
+      "id": "609",
+      "name": "Limette"
+    },
+    {
+      "id": "645",
+      "name": "Limette Fairtrade"
+    },
+    {
+      "id": "49",
+      "name": "Litschi Fairtrade"
+    },
+    {
+      "id": "712",
+      "name": "Apfelschorle 60% 0,5L"
+    },
+    {
+      "id": "946",
+      "name": "Säfte 100% sort., Apfel / Multivitamin 0,33L"
+    },
+    {
+      "id": "743",
+      "name": "Limonaden sort., Cola / Orangenlimonade 3%, 0,5L"
+    },
+    {
+      "id": "978",
+      "name": "Maracuja Spritz, 0,5L"
+    },
+    {
+      "id": "982",
+      "name": "Rhabarber Spritz, 0,5L"
+    },
+    {
+      "id": "723",
+      "name": "Tonic Water Indian Tonic 0,2L"
+    },
+    {
+      "id": "707",
+      "name": "Gold Pils 0,5L"
+    },
+    {
+      "id": "939",
+      "name": "Hefeweißbier 0,5L"
+    },
+    {
+      "id": "722",
+      "name": "Bier Alkoholfrei extra herb 0,5L"
+    },
+    {
+      "id": "970",
+      "name": "Biermischgetränke sort. Radler / Radler alkoholfrei"
+    },
+    {
+      "id": "717",
+      "name": "Bio Apfelschorle 0,5L"
+    },
+    {
+      "id": "765",
+      "name": "Iso Sport Grapefruit 0,5L"
+    },
+    {
+      "id": "706",
+      "name": "Pepsi / Schwip Schwap sort. 0,5L"
+    },
+    {
+      "id": "977",
+      "name": "Johannisbeere Spritz 0,5L"
+    },
+    {
+      "id": "775",
+      "name": "Tonic Water Mediterranian 0,2L"
+    },
+    {
+      "id": "690",
+      "name": "Tonic Water Ginger Beer 0,2L"
+    },
+    {
+      "id": "708",
+      "name": "Pils 0,5L"
+    },
+    {
+      "id": "831",
+      "name": "Export Bier 0,5L"
+    },
+    {
+      "id": "5",
+      "name": "Vittel 2L"
+    },
+    {
+      "id": "3016",
+      "name": "Coca Cola 1,25L"
+    },
+    {
+      "id": "121809",
+      "name": "Punica sort."
+    },
+    {
+      "id": "130195",
+      "name": "Mineralwasser mit Sportscap 0,75L"
+    },
+    {
+      "id": "141407",
+      "name": "H2O Sport Getränke sort., Kirsche / Apfel-Kiwi / Zitrone 0,75L"
+    },
+    {
+      "id": "701",
+      "name": "Mineralwasser Medium 0,5L"
+    },
+    {
+      "id": "926",
+      "name": "Mineralwasser still 0,5L"
+    },
+    {
+      "id": "9879",
+      "name": "Vittel Sportscap 0,75L"
+    },
+    {
+      "id": "111150",
+      "name": "Fanta / Coca Cola Zero 1,25L"
+    },
+    {
+      "id": "139959",
+      "name": "Eistee Pfirsich sort., Pfirsich Zero / Pfirsich 1,5L"
+    },
+    {
+      "id": "702",
+      "name": "Mineralwasser 0,5L"
+    },
+    {
+      "id": "705",
+      "name": "Aqua + Sport sort., Lemon Lime / Blutorange Limette / Limette-Grapefruit 0,5L"
+    }
+  ]
+}
